@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello! I'm Soner, an electrical electronics engineer and a Java React full-stack developer. With my passion for technology and software, I've gained experience by working on various projects.<br><br>🚀 My current focus areas include developing modern web applications with Java and React, performing system integrations, and optimizing software architectures. Additionally, I strive to develop high-quality and sustainable code by embracing industry-standard practices.<br><br>💡 As an electrical electronics engineer, I have successfully bridged the gap between hardware and software, achieving positive results in various projects. By combining my experiences in both hardware and software worlds, I aim to create holistic solutions.<br><br>📫 If you'd like to get in touch, explore my projects, or collaborate, please feel free to send a message or contact me via email at syln.soner@gmail.com.<br><br>🌱 As a continuously learning and evolving developer, I find excitement in participating in new projects and pushing technological boundaries. I look forward to working together!
 
-
+[![](https://visitcount.itsvg.in/api?id=sonersyln&icon=0&color=8)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonerseylann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonerseylan) 
 
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonersyln&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sonersyln&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
