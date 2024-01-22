@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋 Hello! I'm Soner, an electrical electronics engineer and a Java React full-stack developer. With my passion for technology and software, I've gained experience by working on various projects.<br><br>💡 As an electrical electronics engineer, I have successfully bridged the gap between hardware and software, achieving positive results in various projects. By combining my experiences in both hardware and software worlds, I aim to create holistic solutions.<br><br>📫 If you'd like to get in touch, explore my projects, or collaborate, please feel free to send a message or contact me via email at syln.soner@gmail.com.<br><br>🌱 As a continuously learning and evolving developer, I find excitement in participating in new projects and pushing technological boundaries. I look forward to working together!
+![Header](C:\Users\sylns\Downloads/github-header-image.png)
+
+<br><br>📫 If you'd like to get in touch, explore my projects, or collaborate, please feel free to send a message or contact me via email at syln.soner@gmail.com.<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=sonersyln&icon=0&color=12)](https://visitcount.itsvg.in)
 
