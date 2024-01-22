@@ -2,7 +2,7 @@
 
 <br><br>📫 If you'd like to get in touch, explore my projects, or collaborate, please feel free to send a message or contact me via email at syln.soner@gmail.com.<br><br>
 
-[![](https://visitcount.itsvg.in/api?id=sonersyln&icon=0&color=12)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/sonersyln/count.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonerseylann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonerseylan) 
