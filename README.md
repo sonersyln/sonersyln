@@ -1,4 +1,4 @@
-![Header](./Downloads/github-header-image.png)
+![Header]([./Downloads/github-header-image.png](https://disk.yandex.com.tr/i/CVE8BBHDPmOQ_w))
 
 <br><br>📫 If you'd like to get in touch, explore my projects, or collaborate, please feel free to send a message or contact me via email at syln.soner@gmail.com.<br><br>
 
