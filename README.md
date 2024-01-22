@@ -1,4 +1,4 @@
-![Header]([https://disk.yandex.com.tr/i/CVE8BBHDPmOQ_w](https://1.downloader.disk.yandex.com.tr/preview/e08a4c8defb7d5a2aa1b76aaef5c3af668385294991605c2340f7b8c90b9ec0a/inf/6O60qL2_sCBhO1icjCb8yyOB1WcEurXcwv5om6XkI_qyw1PpJahGZz6zUJyAoImMqN3zqIoH2D52gXsPylvNOw%3D%3D?uid=883172058&filename=github-header-image.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=883172058&tknv=v2&size=1903x945))
+![Header](https://raw.githubusercontent.com/sonersyln/sonersyln/main/github-header-image.png)
 
 <br><br>📫 If you'd like to get in touch, explore my projects, or collaborate, please feel free to send a message or contact me via email at syln.soner@gmail.com.<br><br>
 
